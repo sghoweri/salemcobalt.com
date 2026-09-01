@@ -62,3 +62,5 @@ typings/
 
 _site
 _site/**/*
+.vercel
+.env*
