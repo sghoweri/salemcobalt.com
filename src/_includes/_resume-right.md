@@ -44,13 +44,14 @@
 - Responsive images (intrinsic ratio, average-color / base64 placeholders, lazy loading), Critical CSS, async font loading
 - Auditing, monitoring & instrumentation — SpeedCurve, Lighthouse, Web Vitals; Cloudinary, Imgix
 
+### Frontend DevOps & Automation
+- Monorepo management (Yarn, NX, Lerna), CI/CD (GitHub Actions)
+- Serverless functions & middleware (Vercel, Cloudflare Workers)
+- Visual regression (Percy, Lost Pixel); monitoring (Sentry, Datadog)
+- Automated release pipelines (NPM publishing, GitHub releases, release notes, Slack notifications)
+
 ### Frontend Tools & Bundling
 - Vite, Rollup, Babel, ESLint, Prettier, TypeScript
 - GraphQL, Hasura, URQL
 - Storybook, Pattern Lab, 11ty; automated docs & schema APIs; Figma + VS Code plugins
 
-### Frontend DevOps & Automation
-- Monorepo management (Yarn, NX, Lerna); CI/CD (GitHub Actions)
-- Serverless functions & middleware (Vercel, Cloudflare Workers)
-- Visual regression (Percy, Lost Pixel); monitoring (Sentry, Datadog)
-- Automated release pipelines (NPM publishing, GitHub releases, release notes, Slack notifications)
