@@ -11,13 +11,13 @@
   "redirects": [
     {
       "source": "/:path(.*)",
-      "has": [{ "type": "host", "value": "salemcobalt.com" }],
+      "has": [{ "type": "host", "value": "salemghoweri.com" }],
       "destination": "https://salemcobalt.com/:path",
       "permanent": true
     },
     {
       "source": "/:path(.*)",
-      "has": [{ "type": "host", "value": "www.salemcobalt.com" }],
+      "has": [{ "type": "host", "value": "www.salemghoweri.com" }],
       "destination": "https://salemcobalt.com/:path",
       "permanent": true
     },
