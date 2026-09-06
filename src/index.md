@@ -1,5 +1,7 @@
 ---
 layout: layouts/home.njk
+title: Salem Cobalt · Principal Frontend Engineer & Design Systems Expert
+description: Salem Cobalt is a Boston-based Principal Frontend Engineer with 14+ years building design systems used at scale — component APIs, design token pipelines, theming, web components, accessibility, and AI-assisted development.
 templateEngineOverride: njk,md
 # tags:
 #   - nav
