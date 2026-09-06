@@ -1,6 +1,7 @@
 
 ## Contact Me
 
+- <a href="#" class="js-email" data-user="me" data-domain="salemcobalt.com">Email me</a>
 - [LinkedIn](https://www.linkedin.com/in/salemcobalt/)
 - [Github](https://github.com/sghoweri)
 - [Twitter](https://twitter.com/salem_cobalt)

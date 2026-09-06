@@ -3,7 +3,7 @@
 
 ## Principal Frontend Engineer, Design&nbsp;Systems Expert {.c-heading__subtitle}
 
-Boston-based frontend engineer with 14+ years specializing in design systems used at scale — component API architecture, design token pipelines, and theming systems — with deep expertise in React, TypeScript, headless UI primitives, web components, accessibility, and AI-assisted (agentic) development workflows.
+Boston-based frontend engineer with 14+ years specializing in design systems used at scale — component API architecture, design token pipelines, and theming systems — with deep expertise in React, TypeScript, headless UI primitives, web components, accessibility, and AI-assisted (agentic) development workflows. {.c-heading__description}
 
 ## Work Experience
 

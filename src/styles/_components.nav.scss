@@ -1,5 +1,8 @@
 /* Nav */
 .c-nav {
+  display: flex;
+  flex: 1;
+  align-items: center;
   padding: 0;
   list-style: none;
   margin-left: var(--spacing-sm);
@@ -10,6 +13,10 @@
   margin-right: var(--spacing-md);
 }
 
+.c-nav__item--end {
+  margin-left: auto;
+}
+
 .c-nav__item a[href]:not(:hover) {
   text-decoration: none;
 }
@@ -17,4 +24,10 @@
 .c-nav__item--active {
   font-weight: 700;
   text-decoration: underline;
+}
+
+.c-nav__icon {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
 }

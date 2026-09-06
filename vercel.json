@@ -2,6 +2,12 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "yarn build",
   "outputDirectory": "_site",
+  "headers": [
+    {
+      "source": "/resume/(.*)",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }]
+    }
+  ],
   "redirects": [
     {
       "source": "/:path(.*)",
