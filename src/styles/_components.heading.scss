@@ -10,8 +10,10 @@
   text-transform: none;
   font-size: var(--font-size-xl);
   line-height: 1.2;
+  text-wrap: balance;
 }
 
 .c-heading__description {
   margin-bottom: var(--spacing-md);
+  font-size: 1.1rem;
 }

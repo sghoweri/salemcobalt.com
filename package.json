@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sghoweri/salemghoweri.com.git"
+    "url": "git+https://github.com/sghoweri/salemcobalt.com.git"
   },
   "keywords": [
     "Blog"
@@ -28,7 +28,7 @@
     "node": "22.x"
   },
   "bugs": {
-    "url": "https://github.com/sghoweri/salemghoweri.com/issues"
+    "url": "https://github.com/sghoweri/salemcobalt.com/issues"
   },
   "homepage": "https://salemcobalt.com",
   "dependencies": {
