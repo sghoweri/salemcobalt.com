@@ -1,14 +1,12 @@
 
 ## Specializations
 
-- Design Systems & Component APIs
-- Design Tokens & Theming Systems
-- Web Components & Headless UI Primitives
-- Accessibility (WCAG 2.1 AA)
-- AI-Assisted (Agentic) Engineering
-- Web Performance
+- Design Systems
+- Scalable Frontend Architecture
+- Web Components
 - CSS Architecture
-- Frontend DevOps & Automation
+- Web Performance
+- AI-Assisted (Agentic) Engineering
 
 ## Technical Skills
 
