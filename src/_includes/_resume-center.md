@@ -5,6 +5,12 @@
 
 Boston-based frontend engineer with 14+ years specializing in design systems used at scale — component API architecture, design token pipelines, and theming systems — with deep expertise in React, TypeScript, headless UI primitives, web components, accessibility, and AI-assisted (agentic) development workflows. {.c-heading__description}
 
+## Projects
+
+### [spookybear2026.com](https://spookybear2026.com) (October 2026)
+- The unofficial go-to site for the 2026 Spooky Bear season in Provincetown — designed, built, and shipped solo in 2 days with Claude Code ([source](https://github.com/sghoweri/spookybear2026))
+- Astro static site with zero client frameworks, a Claude-powered content update pipeline, Playwright tests, and a Vercel function that turns on-site feedback into GitHub issues
+
 ## Work Experience
 
 ### Independent Software Consultant, Midnight Mansion (April 2026 – May 2026)
