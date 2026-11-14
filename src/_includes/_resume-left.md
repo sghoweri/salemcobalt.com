@@ -21,7 +21,7 @@
 
 ### Conference Talks & Speaking
 - Front-end Architecture for Scalable Design Systems — the Bolt fragmentation → migration → adoption story
-  - [Drupalcon Seattle 2019](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components)
+  - [Drupalcon Seattle 2019](https://medium.com/@salem_cobalt/frontend-architecture-for-scalable-design-systems-72303bffde4b)
   - [Drupalcamp Poland 2019](https://2019.drupalcamp.pl/en/sessions/frontend-architecture-scalable-design-systems/)
   - [Design4Drupal](https://design4drupal.org/sessions/site-buildingfront-end/frontend-architecture-scalable-design-systems)
 - [Next Gen Design Systems with Pattern Lab, Twig, and Web Components](https://design4drupal.org/sessions/theming/next-gen-design-systems-pattern-lab-twig-and-web-components) (Design4Drupal Boston, 2018)
