@@ -7,8 +7,8 @@ Boston-based frontend engineer with 14+ years specializing in design systems use
 
 ## Projects
 
-### [Salem Cobalt Design System](https://designsystem.salemcobalt.com) (October 2026 – present)
-- A personal design system that every side project shares: one Style Dictionary token source built to CSS custom properties, Sass, TypeScript and JSON, with light and dark themes, plus accessible React 19 components on Base UI, published to npm as [@salemcobalt/tokens](https://www.npmjs.com/package/@salemcobalt/tokens) and [@salemcobalt/ui](https://www.npmjs.com/package/@salemcobalt/ui) ([source](https://github.com/sghoweri/design-system))
+### [Protokit Design System](https://protokit.design) (October 2026 – present)
+- A personal design system that every side project shares: one Style Dictionary token source built to CSS custom properties, Sass, TypeScript and JSON, with light and dark themes, plus accessible React 19 components on Base UI, published to npm as [@protokit/tokens](https://www.npmjs.com/package/@protokit/tokens) and [@protokit/ui](https://www.npmjs.com/package/@protokit/ui) ([source](https://github.com/sghoweri/protokit))
 - An Astro + Starlight docs site themed from the system's own tokens, with the Storybook workshop alongside it; every text and surface color pair is checked against WCAG AA in both themes by a unit test, and every story runs the a11y addon
 
 ### [spookybear2026.com](https://spookybear2026.com) (October 2026)
